@@ -1,0 +1,4 @@
+#Mon Feb 07 11:27:32 TRT 2022
+base.0=C\:\\Users\\Turkmen\\StudioProjects\\drum_machine\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
