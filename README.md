@@ -12,7 +12,7 @@ buildDrumPad("bip", Colors.red)
 ```
 
 ## Screenshots
-![screenshot 1](https://github.com/Turkmen48/DrumMachine_Flutter/blob/main/screenshot/ss1.png)
+<img src="https://github.com/Turkmen48/DrumMachine_Flutter/blob/main/screenshot/ss1.png" width="500" height="700">
 
 
 
