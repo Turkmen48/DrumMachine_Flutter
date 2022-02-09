@@ -1,3 +1,4 @@
+![](https://img.shields.io/github/license/Turkmen48/Bilgi_Testi_Flutter) ![](https://img.shields.io/twitter/follow/aazdenkur?style=social) 
 # Drum Machine
 
 A basic drum machine app. 
